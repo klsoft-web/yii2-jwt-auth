@@ -1,0 +1,24 @@
+{
+    "name": "klsoft/yii2-jwt-auth",
+    "type": "library",
+    "description": "The package provides a Yii 2 authentication method based on a JWT token.",
+    "homepage": "https://github.com/klsoft-web/yii2-jwt-auth",
+    "keywords": [
+        "authentication",
+        "jwt",
+        "keycloak",
+        "api",
+        "yii2"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=7.4",
+        "yiisoft/yii2": "~2.0.45",
+        "firebase/php-jwt": "~7.0.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Klsoft\\Yii2JwtAuth\\": "src"
+        }
+    }
+}
