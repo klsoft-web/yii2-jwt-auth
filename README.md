@@ -5,7 +5,7 @@
  See also:
  
  -  [YII2-KEYCLOAK-AUTHZ](https://github.com/klsoft-web/yii2-keycloak-authz) - The package provides Keycloak authorization for the web service APIs of [Yii 2](https://www.yiiframework.com)
- -  [PHP-KEYCLOAK-CLIENT](https://github.com/klsoft-web/php-keycloak-client) - A PHP library that can be used to secure web applications with Keycloak
+ -  [KEYCLOAK-CLIENT](https://github.com/klsoft-web/keycloak-client) - A PHP library that can be used to secure web applications with Keycloak
 
 ## Requirement
 
